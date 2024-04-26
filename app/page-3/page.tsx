@@ -15,7 +15,7 @@ export default function Home() {
             <span
               className={`-mt-14 inline-block text-[64px] font-bold text-black dark:text-green-600`}
             >
-              03
+              Twitter
             </span>
             <p className="pb-6 font-medium">
 As the Owner I will be posting $NANiEKO MEMEs every single day along with hosting Twitter Spaces among the community to get us all together and make $NANiEKO the best token on Solana!

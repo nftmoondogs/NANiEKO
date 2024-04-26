@@ -18,7 +18,7 @@ export default function Home() {
               $NANiEKO Token on Pump.fun
             </span>
             <p className="pb-6 font-medium">
-            Hi! my name is Nanie, I'm a solo Solana Meme Token creator, an independent 2D animator. I use my magic touch to bring images to life. And I present to you $NANIEKO the cutest CAT token on Solana!
+            Hi! my name is Nanie, I am a solo Solana Meme Token creator, an independent 2D animator. I use my magic touch to bring images to life. And I present to you $NANIEKO the cutest CAT token on Solana!
             </p>
             <p className="pb-6 font-medium">
             Instead of having a PreSale we decided to launch using Alon's Pump.fun
