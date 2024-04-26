@@ -24,7 +24,7 @@ My aim with $NANiEKO is to spread positivity and love, Us Solana degens are know
             <div className="">
               <Button size="xl" className="w-full font-bold" variant="brand1">
                 <a
-                  href="https://github.com/lucky-chap/kaminari"
+                  href="https://t.me/NANiEKOGroup"
                   target="_blank"
                   rel="noreferrer"
                   className="pb-1 dark:text-zinc-800 text-zinc-100"
