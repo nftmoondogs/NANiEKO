@@ -24,7 +24,7 @@ As the Owner I will be posting $NANiEKO MEMEs every single day along with hostin
             <div className="">
               <Button size="xl" className="w-full font-bold" variant="brand2">
                 <a
-                  href="https://github.com/lucky-chap/kaminari"
+                  href="https://t.me/NANiEKOGroup"
                   target="_blank"
                   rel="noreferrer"
                   className="pb-1 dark:text-zinc-800 text-zinc-100"
