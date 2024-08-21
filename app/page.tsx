@@ -21,7 +21,7 @@ export default function Home() {
             Hi! my name is Nanie, I am a solo Tron Meme Token creator, an independent 2D animator. I use my magic touch to bring images to life. And I present to you $NANIEKO the cutest CAT token on Tron!
             </p>
             <p className="pb-6 font-medium">
-            Instead of having a PreSale we decided to launch using Justin Sun's SunPump.meme
+            Instead of having a PreSale we decided to launch using Justin Sun SunPump.memes
             </p>
 
             <div className="">
