@@ -18,7 +18,7 @@ export default function Home() {
               Telegram Community
             </span>
             <p className="pb-6 font-medium">
-My aim with $NANiEKO is to spread positivity and love, Us Solana degens are known for our Web3 and Meme Culture. We are building the strongest Love spreading community on our telegram
+My aim with $NANiEKO is to spread positivity and love, Us Tron degens are known for our Web3 and Meme Culture. We are building the strongest Love spreading community on our telegram
             </p>
 
             <div className="">

@@ -18,7 +18,7 @@ export default function Home() {
               Twitter
             </span>
             <p className="pb-6 font-medium">
-As the Owner I will be posting $NANiEKO MEMEs every single day along with hosting Twitter Spaces among the community to get us all together and make $NANiEKO the best token on Solana!
+As the Owner I will be posting $NANiEKO MEMEs every single day along with hosting Twitter Spaces among the community to get us all together and make $NANiEKO the best token on Tron!
             </p>
 
             <div className="">
