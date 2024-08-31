@@ -27,7 +27,7 @@ export default function Home() {
             <div className="">
               <Button size="xl" className="w-full font-bold" variant="brand">
                 <a
-                  href="https://sunpump.meme/"
+                  href="https://sunpump.meme/token/TGu1j5ncc55aunAN4jJM1UbaZY64ZQyE85"
                   target="_blank"
                   rel="noreferrer"
                   className="pb-1 dark:text-zinc-800 text-zinc-100"
