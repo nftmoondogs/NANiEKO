@@ -15,13 +15,13 @@ export default function Home() {
             <span
               className={`-mt-14 inline-block text-[64px] font-bold text-black dark:text-fuchsia-600`}
             >
-              $NANiEKO Token on SunPump.meme☀️
+              $NANiEKO Token on MoonShot🌙
             </span>
             <p className="pb-6 font-medium">
-            Hi! my name is Nanie, I am a solo Tron Meme Token creator, an independent 2D animator. I use my magic touch to bring images to life. And I present to you $NANIEKO the cutest CAT token on Tron!
+            Hi! my name is Nanie, I am a solo Solana Meme Token creator, an independent 2D animator. I use my magic touch to bring images to life. And I present to you $NANIEKO the cutest CAT token on Solana!
             </p>
             <p className="pb-6 font-medium">
-            Instead of having a PreSale we decided to launch using Justin Sun SunPump.memes
+            Instead of having a PreSale we decided to launch using MoonShot
             </p>
 
             <div className="">
@@ -32,7 +32,7 @@ export default function Home() {
                   rel="noreferrer"
                   className="pb-1 dark:text-zinc-800 text-zinc-100"
                 >
-                  Buy From sunpump.meme
+                  Buy From MoonShot🌙
                 </a>{" "}
               </Button>
             </div>
