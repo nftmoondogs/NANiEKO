@@ -27,7 +27,7 @@ export default function Home() {
             <div className="">
               <Button size="xl" className="w-full font-bold" variant="brand">
                 <a
-                  href="https://dexscreener.com/solana/FzzdK44ZzdUPWqRv64qzp5QeLGGrXyLfcVx7H37sR7jr"
+                  href="https://dexscreener.com/solana/"
                   target="_blank"
                   rel="noreferrer"
                   className="pb-1 dark:text-zinc-800 text-zinc-100"
