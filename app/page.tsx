@@ -27,7 +27,7 @@ export default function Home() {
             <div className="">
               <Button size="xl" className="w-full font-bold" variant="brand">
                 <a
-                  href="https://pump.fun/Fd7wf4cPKEkD2WEuh3ijf9LgGh9R3Go7EL7QY9d2pump"
+                  href="https://pump.fun/board"
                   target="_blank"
                   rel="noreferrer"
                   className="pb-1 dark:text-zinc-800 text-zinc-100"
