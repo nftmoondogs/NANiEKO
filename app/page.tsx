@@ -15,24 +15,24 @@ export default function Home() {
             <span
               className={`-mt-14 inline-block text-[64px] font-bold text-black dark:text-fuchsia-600`}
             >
-              $NANiEKO Token on Pump.Fun💊
+              $NANiEKO Token on MoonShot🌙
             </span>
             <p className="pb-6 font-medium">
             Hi! my name is Nanie, I am a solo Solana Meme Token creator, an independent 2D animator. I use my magic touch to bring images to life. And I present to you $NANIEKO the cutest CAT token on Solana!
             </p>
             <p className="pb-6 font-medium">
-            Instead of having a PreSale we decided to launch using Pump.Fun💊
+            Instead of having a PreSale we decided to launch using MoonShot🌙
             </p>
 
             <div className="">
               <Button size="xl" className="w-full font-bold" variant="brand">
                 <a
-                  href="https://pump.fun/board"
+                  href="https://dexscreener.com/moonshot"
                   target="_blank"
                   rel="noreferrer"
                   className="pb-1 dark:text-zinc-800 text-zinc-100"
                 >
-                  Buy From Pump.Fun💊
+                  Buy From MoonShot🌙
                 </a>{" "}
               </Button>
             </div>
